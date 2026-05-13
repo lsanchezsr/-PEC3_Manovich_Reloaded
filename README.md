@@ -6,4 +6,4 @@
 **Universitat Oberta de Catalunya**
 
 # Introducción
-El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich y observar cómo el software ha transformado la forma en que entendemos los medios contemporáneos. La hibridación trata fusionar sus técnicas, interfaces y estructuras para crear nuevas experiencias culturales. Como señala Manovich, en los medios híbridos “las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen”.¹
+El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich y observar cómo el software ha transformado la forma en que entendemos los medios contemporáneos. La hibridación trata fusionar sus técnicas, interfaces y estructuras para crear nuevas experiencias culturales. Como señala Manovich, en los medios híbridos “las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen”.[^1]
