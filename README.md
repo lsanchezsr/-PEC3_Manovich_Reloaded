@@ -15,3 +15,12 @@ Es un caso muy interesante para analizar desde la idea de la hibridación, que f
 
 
 ![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
+
+## ¿Multimedia o hibridación?
+A priori, podría parecer un simple videojuego, pero si lo analizamos desde la perspectiva de Manovich, lo más interesante de este videojuego narrativo es cómo se combinan distintos lenguajes mediáticos dentro de una misma estructura digital. Va más allá de unir imágenes, sonido e interacción, sino que integra recursos que son más propios del cine, como la narrativa interactiva y la simulación informática, para que el usuario tenga una experiencia más coherente que no pertenece por completo a ninguno de esos medios por separado.¹
+
+A simple vista, parece que se trate de distintos medios conviviendo dentro de un mismo producto digital.
+
+Sin embargo, Manovich diferencia entre multimedia e hibridación. En la multimedia, los medios coexisten manteniendo sus lógicas por separado; en la hibridación hay una transformación, donde técnicas e interfaces que estaban separadas se fusionan para crear una nueva experiencia mediática.¹ Detroit no funciona como una simple suma entre película y videojuego, sino que se muestran escenas cinematográficas que son interrumpidas por momentos interactivos, donde ambas lógicas quedan integradas desde su propia estructura.
+
+Las escenas cinematográficas no funcionan como simple representación lineal cerrada, y las interacciones no son como en los modelos tradicionales del videojuego, que suelen centrarse en la agilidad o la competición. A partir de ambos elementos se crea un nuevo formato híbrido en el que la narrativa, la interfaz y la simulación funcionan en conjunto.
