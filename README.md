@@ -17,7 +17,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 ## FICHA TÉCNICA
 
-| **FICHA TÉCNICA** |  |
+| **FICHA TÉCNICA**|
 |------------------|--|
 | **Género** | Aventura narrativa interactiva |
 | **Desarrollador** | Quantic Dream |
