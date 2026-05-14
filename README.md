@@ -42,7 +42,7 @@ Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de
 
 [^4]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013) .
 
-## Fuentes visuales
+## Referencias visuales
 
 1. Quantic Dream. *Detroit: Become Human*. Imagen promocional. Steam Store. Acceso el 13 de mayo de 2026. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
 
