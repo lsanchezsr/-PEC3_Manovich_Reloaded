@@ -11,10 +11,12 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 
 ## Presentación del caso
+![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
+*Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream / Steam Store.*
 Es un caso muy interesante para analizar desde la idea de la hibridación, que fue desarrollado por Quantic Dream y publicado en 2018. Es un videojuego de experiencia narrativa interactiva ambientada en un futuro cercano, donde androides humanoides conviven con seres humanos en una sociedad muy marcada por conflictos sociales, tecnológicos y éticos
 
 
-![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
+
 
 *Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream / Steam Store.*
 
@@ -37,13 +39,7 @@ Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de
 
 *Figura 3. Trailer oficial de* Detroit: Become Human*. Fuente: Quantic Dream / YouTube.*
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=8a-EObAhYrg" target="_blank">
-    <img src="https://img.youtube.com/vi/8a-EObAhYrg/maxresdefault.jpg" width="800">
-  </a>
-</p>
 
-<p align="center"><em>Figura 3. Trailer oficial de <i>Detroit: Become Human</i>. Fuente: Quantic Dream / YouTube.</em></p>
 
 ## Referencias
 [^1]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
