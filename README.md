@@ -1,8 +1,8 @@
 # PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 #### Hibridación del software en la cultura contemporánea
 
-**Autor:Lena Sánchez**<br>
-**Asignatura:Cultura Digital - Aula 1**<br>
+**Autor:** Lena Sánchez<br>
+**Asignatura:** Cultura Digital - Aula 1<br>
 **Universitat Oberta de Catalunya**
 
 # Introducción
