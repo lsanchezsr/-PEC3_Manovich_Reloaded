@@ -41,3 +41,9 @@ Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de
 [^3]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
 
 [^4]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013) .
+
+# Fuentes visuales
+
+1. Quantic Dream. *Detroit: Become Human*. Imagen promocional. Steam Store. Acceso el 13 de mayo de 2026. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
+
+2. Profesional Review. “Detroit: Become Human Review.” Captura de interfaz del videojuego. 2018. https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg
