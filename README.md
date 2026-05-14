@@ -17,8 +17,9 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 ## FICHA TÉCNICA
 
-| **FICHA TÉCNICA**|
-|------------------|--|
+| **DATOS** | **INFORMACIÓN** |
+|:----------|:----------------|
+| **Título** | *Detroit: Become Human* |
 | **Género** | Aventura narrativa interactiva |
 | **Desarrollador** | Quantic Dream |
 | **Editor** | Sony Interactive Entertainment |
