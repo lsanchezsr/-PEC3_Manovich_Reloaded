@@ -42,7 +42,7 @@ Las escenas cinematográficas no funcionan como simple representación lineal ce
 
 ## Interacción y decisiones
 ![Detroit: Become Human - toma de decisiones](https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg)
-*Figura 2. Interfaz de toma de decisiones en* Detroit: Become Human*. 
+*Figura 2. Interfaz de toma de decisiones en Detroit: Become Human*. 
 Fuente: *Profesional Review*
 
 Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de funcionar como una secuencia fija y cerrada y se convierte en una estructura flexible gobernada por software. Cada decisión que tome el usuario modifica el desarrollo de la historia, activando nuevas rutas narrativas y alterando las consecuencias de los acontecimientos. Partiendo de esta perspectiva, el relato ya no se experimenta solo como una historia lineal, sino como un sistema de posibilidades organizado computacionalmente. Esto encaja con la idea de Manovich del software como metamedio, en el que los medios tradicionales dejan de funcionar de forma aislada y pasan a reorganizarse dentro de una misma lógica digital.[^4]
