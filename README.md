@@ -47,7 +47,7 @@ Fuente: *Profesional Review*
 
 Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de funcionar como una secuencia fija y cerrada y se convierte en una estructura flexible gobernada por software. Cada decisión que tome el usuario modifica el desarrollo de la historia, activando nuevas rutas narrativas y alterando las consecuencias de los acontecimientos. Partiendo de esta perspectiva, el relato ya no se experimenta solo como una historia lineal, sino como un sistema de posibilidades organizado computacionalmente. Esto encaja con la idea de Manovich del software como metamedio, en el que los medios tradicionales dejan de funcionar de forma aislada y pasan a reorganizarse dentro de una misma lógica digital.[^4]
 ## Trailer
-|[![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/cdn/EP9000/CUSA09417_00/FREE_CONTENTMH5YgKSmG0256rqnzRT6/DETROIT_CONNOR02.jpg?w=620&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg) |
+                                                                                                                                                                                                               [![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/cdn/EP9000/CUSA09417_00/FREE_CONTENTMH5YgKSmG0256rqnzRT6/DETROIT_CONNOR02.jpg?w=620&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg) 
 
 *Figura 3. Trailer oficial de* Detroit: *Become Human.* Fuente: *Quantic Dream / YouTube*
 
