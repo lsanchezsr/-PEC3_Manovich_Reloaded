@@ -37,6 +37,14 @@ Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de
 
 *Figura 3. Trailer oficial de* Detroit: Become Human*. Fuente: Quantic Dream / YouTube.*
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8a-EObAhYrg" target="_blank">
+    <img src="https://img.youtube.com/vi/8a-EObAhYrg/maxresdefault.jpg" width="800">
+  </a>
+</p>
+
+<p align="center"><em>Figura 3. Trailer oficial de <i>Detroit: Become Human</i>. Fuente: Quantic Dream / YouTube.</em></p>
+
 ## Referencias
 [^1]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
 
