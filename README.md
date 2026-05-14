@@ -32,7 +32,7 @@ Las escenas cinematográficas no funcionan como simple representación lineal ce
 
 Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de funcionar como una secuencia fija y cerrada y se convierte en una estructura flexible gobernada por software. Cada decisión que tome el usuario modifica el desarrollo de la historia, activando nuevas rutas narrativas y alterando las consecuencias de los acontecimientos. Partiendo de esta perspectiva, el relato ya no se experimenta solo como una historia lineal, sino como un sistema de posibilidades organizado computacionalmente. Esto encaja con la idea de Manovich del software como metamedio, en el que los medios tradicionales dejan de funcionar de forma aislada y pasan a reorganizarse dentro de una misma lógica digital.[^4]
 
-[![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/vulcan/img/rnd/202010/2119/c3hgHQY7DOMTzQX52O2PKq7i.jpg?w=780&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg)
+[![Trailer oficial de Detroit: Become Human](https://sm.ign.com/t/ign_es/video/e/e3-2017-de/e3-2017-detroit-become-human-trailer-de-presentacion-del-nue_n8j3.1280.jpg)](https://www.youtube.com/watch?v=8a-EObAhYrg)
 
 ## Referencias
 [^1]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
