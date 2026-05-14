@@ -1,5 +1,5 @@
 # PEC 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
-## Hibridación del software en la cultura contemporánea
+### Hibridación del software en la cultura contemporánea
 
 **Autor:Lena Sánchez**<br>
 **Asignatura:Cultura Digital - Aula 1**<br>
@@ -10,7 +10,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 
 
-### Presentación del caso
+## Presentación del caso
 ![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
 
 *Figura 1. Imagen promocional de Detroit: Become Human. Fuente: Quantic Dream / Steam Store.*
