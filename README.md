@@ -49,7 +49,7 @@ Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de
 ## Trailer
 [![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/cdn/EP9000/CUSA09417_00/FREE_CONTENTMH5YgKSmG0256rqnzRT6/DETROIT_CONNOR02.jpg?w=620&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg) 
 
-*Figura 3. Trailer oficial de* Detroit: Become Human.* Fuente: *Quantic Dream / YouTube*
+*Figura 3. Trailer oficial de* Detroit: *Become Human.* Fuente: *Quantic Dream / YouTube*
 
 
 
