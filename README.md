@@ -15,7 +15,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 *Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream / Steam Store.*
 
-## FICHA TÉCNICA
+## Ficha técnica
 
 | **DATOS** | **INFORMACIÓN** |
 |:----------|:----------------|
