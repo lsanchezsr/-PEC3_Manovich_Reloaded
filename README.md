@@ -14,7 +14,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 ![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
 
 *Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream / Steam Store.*
-
+Es un caso muy interesante para analizar desde la idea de la hibridación, que fue desarrollado por Quantic Dream y publicado en 2018. Es un videojuego de experiencia narrativa interactiva ambientada en un futuro cercano, donde androides humanoides conviven con seres humanos en una sociedad muy marcada por conflictos sociales, tecnológicos y éticos.
 ## Ficha técnica
 
 | **DATOS** | **INFORMACIÓN** |
@@ -28,12 +28,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 | **Fecha de lanzamiento** | 25 de mayo de 2018 |
 | **Motor gráfico** | Quantic Dream Engine |
 
-Es un caso muy interesante para analizar desde la idea de la hibridación, que fue desarrollado por Quantic Dream y publicado en 2018. Es un videojuego de experiencia narrativa interactiva ambientada en un futuro cercano, donde androides humanoides conviven con seres humanos en una sociedad muy marcada por conflictos sociales, tecnológicos y éticos
 
-
-
-
-*Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream / Steam Store.*
 
 ## ¿Multimedia o hibridación?
 A priori, podría parecer un simple videojuego, pero si lo analizamos desde la perspectiva de Manovich, lo más interesante de este videojuego narrativo es cómo se combinan distintos lenguajes mediáticos dentro de una misma estructura digital. Va más allá de unir imágenes, sonido e interacción, sino que integra recursos que son más propios del cine, como la narrativa interactiva y la simulación informática, para que el usuario tenga una experiencia más coherente que no pertenece por completo a ninguno de esos medios por separado.[^2]
