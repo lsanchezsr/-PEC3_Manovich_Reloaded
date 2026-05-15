@@ -96,7 +96,7 @@ Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporá
 ## Conclusión
 En ambos casos, la hibridación va más allá de la simple multimedia, ya que no se trata únicamente de unir distintos elementos, sino de transformarlos. Lo que nos enseña que muchas de las ideas que nos plantea Manovich son útiles para analizar cómo el software se va redefiniendo continuamente (Manovich, 2013).
 
-
+> *“La hibridación, facilitada por el software, se convirtió en una de las estéticas predominantes de los medios contemporáneos.”* (Manovich, 2013, p. 212).
 
 ---
 
