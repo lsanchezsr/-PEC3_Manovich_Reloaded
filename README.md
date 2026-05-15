@@ -84,6 +84,9 @@ Además, la obra también combina la dimensión artística con una reflexión ec
 
 Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporánea, ya que no se enfoca únicamente en el uso de realidad virtual, sino en cómo une el arte digital, datos biométricos, interacción corporal, etc. Desde las “gafas de Manovich”, esta obra nos enseña cómo el software puede crear nuevas formas de representación e interacción, transformando datos invisibles en toda una experiencia inmersiva.
 
+![We Live in an Ocean of Air](https://phi.ca/uploads/_1000xAUTO_crop_center-center_85_none_ns/123284/PHI-Centre_WeLive_MS_1000x668_2021-09-09-155355.webp)
+
+*Figura 4. We Live in an Ocean of Air. Fuente: PHI (2021).*
 
 ## Referencias
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
