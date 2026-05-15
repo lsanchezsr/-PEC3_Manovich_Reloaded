@@ -125,4 +125,4 @@ En ambos casos, la hibridación va más allá de la simple multimedia, ya que no
 
 ### Declaración de uso de IA
 
-En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente ChatGPT como herramienta de apoyo técnico para la maquetación en Markdown, la presentación en GitHub y la revisión de aspectos formales del texto. La selección de los casos, el análisis, la argumentación y las conclusiones son de elaboración propia.
+En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente ChatGPT como herramienta de apoyo técnico para la maquetación en Markdown. La selección de los casos, el análisis, la argumentación y las conclusiones son de elaboración propia.
