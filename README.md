@@ -13,7 +13,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 
 
 ## Presentación del caso
-![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
+[Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
 
 *Figura 1. Imagen promocional de* Detroit: *Become Human*. Fuente: *Quantic Dream (s. f.).*
 
