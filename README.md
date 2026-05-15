@@ -106,9 +106,9 @@ En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente 
 
 
 ## Referencias
-Manovich, L. (2013). El software toma el mando. Editorial UOC.
+- Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
-PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
+- PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
 
 Adell, F. (2014, 16 de abril). Remediació, multimèdia i hibridació dels mitjans. Universitat Oberta de Catalunya. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
