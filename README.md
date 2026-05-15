@@ -100,6 +100,7 @@ En ambos casos, la hibridación va más allá de la simple multimedia, ya que no
 
 > *“La hibridación, facilitada por el software, se convirtió en una de las estéticas predominantes de los medios contemporáneos.”* (Manovich, 2013, p. 212).
 
+
 ---
 
 
