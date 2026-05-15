@@ -100,19 +100,16 @@ En ambos casos, la hibridación va más allá de la simple multimedia, ya que no
 
 
 
-### Declaración de uso de IA
-
-En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente ChatGPT como herramienta de apoyo técnico para la maquetación en Markdown, la presentación en GitHub y la revisión de aspectos formales del texto. La selección de los casos, el análisis, la argumentación y las conclusiones son de elaboración propia.
 
 # Referencias
-## Referencias bibliográficas
+### Referencias bibliográficas
 - Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 - PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
 
 - Adell, F. (2014, 16 de abril). Remediació, multimèdia i hibridació dels mitjans. Universitat Oberta de Catalunya. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-## Referencias visuales
+### Referencias visuales
 
 - Quantic Dream. (s. f.). Detroit: Become Human [Imagen promocional]. Steam Store. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
 
@@ -125,3 +122,7 @@ En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente 
 - PHI. (2021). We live in an ocean of air [Vídeo]. https://player.vimeo.com/progressive_redirect/playback/1134612998/rendition/1080p/file.mp4%20%281080p%29.mp4
 
 - Marshmallow Laser Feast. (s. f.). We live in an ocean of air [Imagen]. https://marshmallowlaserfeast.com/app/uploads/2025/04/0279_An_Ode_to_an_Oak_comp_merged_v013.011411-768x1024.jpg
+
+### Declaración de uso de IA
+
+En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente ChatGPT como herramienta de apoyo técnico para la maquetación en Markdown, la presentación en GitHub y la revisión de aspectos formales del texto. La selección de los casos, el análisis, la argumentación y las conclusiones son de elaboración propia.
