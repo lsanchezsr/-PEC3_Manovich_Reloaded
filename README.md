@@ -57,7 +57,16 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 ## Descripción del caso
 We Live in an Ocean of Air es una instalación inmersiva creada por el colectivo artístico Marshmallow Laser Feast. Es una experiencia de realidad virtual y multisensorial que tiene como objetivo mostrar la conexión entre los seres humanos y la naturaleza, mediante la respiración y la relación con los árboles. La obra sitúa al usuario en un entorno inspirado en el Parque Nacional de las Secuoyas, donde este podrá experimentar visualmente lo que normalmente no se percibe, como el aire, el pulso, la respiración y los flujos vitales que unen a los organismos vivos (PHI, 2021).
 
+## Hibridación mediática desde Manovich
+Es interesante analizarlo desde la perspectiva de Manovich porque no se limita a simplemente agrupar imagen, sonido y realidad virtual. En este caso, lo importante es cómo se hace esta fusión de arte, ciencia, tecnología, cuerpo, datos biométricos y simulación dentro de una misma experiencia. No es solo observar una obra audiovisual, sino que requiere que los usuarios participen en este entorno donde el cuerpo forma parte del propio sistema.
 
+Esto va más allá de la multimedia. En una experiencia multimedia tradicional, los medios aparecen juntos, pero tienen cierta independencia. En cambio, en esta instalación, la realidad virtual, el sonido, la visualización de datos, la respiración, el ritmo cardíaco y el seguimiento corporal forman parte de una misma experiencia híbrida. Esto conecta directamente con la idea de Manovich de que la hibridación aparece cuando técnicas e interfaces de medios distintos se combinan mediante el software para producir una experiencia nueva y coherente (Manovich, 2013).
+
+La respiración y el ritmo cardíaco se representan de forma visual, que es uno de los puntos más interesantes de la obra. Estos datos no quedan como información externa, sino que se integran en la instalación y modifican la forma en que se percibe el entorno. De esta forma, el software no solo nos enseñará imágenes, sino que transforma estos datos corporales en una experiencia estética, que nos permite ver lo que normalmente la gente no solemos percibir, como si el medio digital ampliara de algún modo nuestros sentidos.
+
+En esta experiencia, el usuario no interactúa mediante un mando tradicional, un teclado o una pantalla convencional. El cuerpo se convierte en la interfaz. Respirar, moverse y estar presente dentro del espacio forman parte de la obra. Para entender la hibridación dentro de esta obra, es importante tener en cuenta la interacción, ya que la interacción no es un elemento externo, sino algo esencial e imprescindible para esta obra.
+
+Además, la obra también combina la dimensión artística con una reflexión ecológica. Se hace visible al ver la relación entre el cuerpo y el entorno natural. No se hace de manera explícita, sino mediante una experiencia inmersiva en la que los datos, la imagen, el sonido y la presencia corporal se combinan mediante el software.
 
 ## Referencias
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
