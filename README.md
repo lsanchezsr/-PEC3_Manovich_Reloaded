@@ -13,7 +13,7 @@ El objetivo es analizar la hibridación moderna desde la  las gafas de Manovich 
 ## Presentación del caso
 ![Detroit escena cinematográfica](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479)
 
-*Figura 1. Imagen promocional de Detroit: Become Human. Fuente: Quantic Dream / Steam Store.*
+*Figura 1. Imagen promocional de* Detroit: Become Human*. Fuente: Quantic Dream (s. f.).*
 
 Es un caso muy interesante para analizar desde la idea de la hibridación, que fue desarrollado por Quantic Dream y publicado en 2018. Es un videojuego de experiencia narrativa interactiva ambientada en un futuro cercano, donde androides humanoides conviven con seres humanos en una sociedad muy marcada por conflictos sociales, tecnológicos y éticos.
 ## Ficha técnica
@@ -41,8 +41,7 @@ Las escenas cinematográficas no funcionan como simple representación lineal ce
 
 ## Interacción y decisiones
 ![Detroit: Become Human - toma de decisiones](https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg)
-*Figura 2. Interfaz de toma de decisiones en Detroit: Become Human*. 
-Fuente: *Profesional Review*
+*Figura 2. Captura de interfaz de* Detroit: Become Human*. Fuente: Profesional Review (2018).*
 
 Uno de los aspectos más interesantes de este caso es cómo la narrativa deja de funcionar como una secuencia fija y cerrada y se convierte en una estructura flexible gobernada por software. Cada decisión que tome el usuario modifica el desarrollo de la historia, activando nuevas rutas narrativas y alterando las consecuencias de los acontecimientos. Partiendo de esta perspectiva, el relato ya no se experimenta solo como una historia lineal, sino como un sistema de posibilidades organizado computacionalmente. Esto encaja con la idea de Manovich del software como metamedio, en el que los medios tradicionales dejan de funcionar de forma aislada y pasan a reorganizarse dentro de una misma lógica digital (Manovich, 2013).
 
@@ -51,7 +50,7 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 ## Trailer
 [![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/cdn/EP9000/CUSA09417_00/FREE_CONTENTMH5YgKSmG0256rqnzRT6/DETROIT_CONNOR02.jpg?w=620&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg) 
 
-*Figura 3. Trailer oficial de* Detroit: *Become Human.* Fuente: *Quantic Dream / YouTube*
+*Figura 3. Trailer oficial de* Detroit: Become Human*. Fuente: Quantic Dream (s. f.).*
 
 
 
