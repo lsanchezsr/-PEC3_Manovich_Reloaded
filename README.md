@@ -90,7 +90,9 @@ Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporá
 
 ## Referencias
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
+
 PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
+
 Adell, F. (2014, 16 de abril). Remediació, multimèdia i hibridació dels mitjans. Universitat Oberta de Catalunya. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
 ## Fuentes visuales
