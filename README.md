@@ -75,7 +75,7 @@ Esto va más allá de la multimedia. En una experiencia multimedia tradicional, 
 
 La respiración y el ritmo cardíaco se representan de forma visual, que es uno de los puntos más interesantes de la obra. Estos datos no quedan como información externa, sino que se integran en la instalación y modifican la forma en que se percibe el entorno. De esta forma, el software no solo nos enseñará imágenes, sino que transforma estos datos corporales en una experiencia estética, que nos permite ver lo que normalmente la gente no solemos percibir, como si el medio digital ampliara de algún modo nuestros sentidos.
 
-[▶ Ver vídeo de We Live in an Ocean of Air](https://player.vimeo.com/progressive_redirect/playback/1134612998/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1750527031&signature=51cc77cd847a4963d0c8288b84dc95bb0416625fb30120ccd25351ee46ece9e6)
+[Ver vídeo de We Live in an Ocean of Air](https://player.vimeo.com/progressive_redirect/playback/1134612998/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1750527031&signature=51cc77cd847a4963d0c8288b84dc95bb0416625fb30120ccd25351ee46ece9e6)
 
 *Figura 5. Registro audiovisual de la experiencia We Live in an Ocean of Air. Fuente: PHI / Marshmallow Laser Feast.*
 
