@@ -90,13 +90,6 @@ Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporá
 
 *Figura 6. Representación visual de la experiencia inmersiva y visualización digital inspirada en el universo estético de Marshmallow Laser Feast. Fuente: Marshmallow Laser Feast.*
 
-
-
----
-
-
-
-
 # Conclusión
 En ambos casos, la hibridación va más allá de la simple multimedia, ya que no se trata únicamente de unir distintos elementos, sino de transformarlos. Lo que nos enseña que muchas de las ideas que nos plantea Manovich son útiles para analizar cómo el software se va redefiniendo continuamente (Manovich, 2013).
 
