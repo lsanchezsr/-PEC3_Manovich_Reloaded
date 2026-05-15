@@ -51,7 +51,7 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 [![Trailer oficial de Detroit: Become Human](https://image.api.playstation.com/cdn/EP9000/CUSA09417_00/FREE_CONTENTMH5YgKSmG0256rqnzRT6/DETROIT_CONNOR02.jpg?w=620&thumb=false)](https://www.youtube.com/watch?v=8a-EObAhYrg) 
 
 *Figura 3. Trailer oficial de* Detroit: *Become Human*. Fuente: *Quantic Dream (s. f.).*
-
+---
 # Caso 2: *We Live in an Ocean of Air*
 
 ## Presentación del caso
