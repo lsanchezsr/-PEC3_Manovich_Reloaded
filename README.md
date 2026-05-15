@@ -55,18 +55,12 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 
 
 ## Referencias
-[^1]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
-
-[^2]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
-
-[^3]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013).
-
-[^4]: Lev Manovich, *El software toma el mando* (Barcelona: Editorial UOC, 2013) .
+Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 ## Fuentes visuales
 
-1. Quantic Dream. *Detroit: Become Human*. Imagen promocional. Steam Store. Acceso el 13 de mayo de 2026. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
+Quantic Dream. (s. f.). Detroit: Become Human [Imagen promocional]. Steam Store. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
 
-2. Profesional Review. “Detroit: Become Human Review.” Captura de interfaz del videojuego. 2018. https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg
+Profesional Review. (2018). Detroit: Become Human review [Captura de interfaz del videojuego]. https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg
 
-3. Quantic Dream. *Detroit: Become Human Official Trailer*. YouTube. Acceso el 13 de mayo de 2026. https://www.youtube.com/watch?v=8a-EObAhYrg
+Quantic Dream. (s. f.). Detroit: Become Human official trailer [Vídeo]. YouTube. https://www.youtube.com/watch?v=8a-EObAhYrg
