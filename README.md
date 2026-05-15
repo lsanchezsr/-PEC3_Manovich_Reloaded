@@ -64,9 +64,13 @@ Esto va más allá de la multimedia. En una experiencia multimedia tradicional, 
 
 La respiración y el ritmo cardíaco se representan de forma visual, que es uno de los puntos más interesantes de la obra. Estos datos no quedan como información externa, sino que se integran en la instalación y modifican la forma en que se percibe el entorno. De esta forma, el software no solo nos enseñará imágenes, sino que transforma estos datos corporales en una experiencia estética, que nos permite ver lo que normalmente la gente no solemos percibir, como si el medio digital ampliara de algún modo nuestros sentidos.
 
+## El cuerpo como interfaz y sistema de interacción
 En esta experiencia, el usuario no interactúa mediante un mando tradicional, un teclado o una pantalla convencional. El cuerpo se convierte en la interfaz. Respirar, moverse y estar presente dentro del espacio forman parte de la obra. Para entender la hibridación dentro de esta obra, es importante tener en cuenta la interacción, ya que la interacción no es un elemento externo, sino algo esencial e imprescindible para esta obra.
 
 Además, la obra también combina la dimensión artística con una reflexión ecológica. Se hace visible al ver la relación entre el cuerpo y el entorno natural. No se hace de manera explícita, sino mediante una experiencia inmersiva en la que los datos, la imagen, el sonido y la presencia corporal se combinan mediante el software.
+
+Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporánea, ya que no se enfoca únicamente en el uso de realidad virtual, sino en cómo une el arte digital, datos biométricos, interacción corporal, etc. Desde las “gafas de Manovich”, esta obra nos enseña cómo el software puede crear nuevas formas de representación e interacción, transformando datos invisibles en toda una experiencia inmersiva.
+
 
 ## Referencias
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
