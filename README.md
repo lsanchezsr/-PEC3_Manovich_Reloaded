@@ -52,6 +52,9 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 
 *Figura 3. Trailer oficial de* Detroit: *Become Human*. Fuente: *Quantic Dream (s. f.).*
 ---
+---
+---
+---
 # Caso 2: *We Live in an Ocean of Air*
 
 ## Presentación del caso
