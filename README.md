@@ -90,6 +90,7 @@ Por todo esto, We Live in an Ocean of Air es un caso de hibridación contemporá
 
 ## Referencias
 Manovich, L. (2013). El software toma el mando. Editorial UOC.
+PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
 
 ## Fuentes visuales
 
@@ -98,3 +99,9 @@ Quantic Dream. (s. f.). Detroit: Become Human [Imagen promocional]. Steam Store.
 Profesional Review. (2018). Detroit: Become Human review [Captura de interfaz del videojuego]. https://www.profesionalreview.com/wp-content/uploads/2018/07/Detroit-become-human-review-4.jpg
 
 Quantic Dream. (s. f.). Detroit: Become Human official trailer [Vídeo]. YouTube. https://www.youtube.com/watch?v=8a-EObAhYrg
+
+PHI. (2021). We live in an ocean of air [Imagen]. https://phi.ca/uploads/_1000xAUTO_crop_center-center_85_none_ns/123284/PHI-Centre_WeLive_MS_1000x668_2021-09-09-155355.webp
+
+PHI. (2021). We live in an ocean of air [Vídeo]. https://player.vimeo.com/progressive_redirect/playback/1134612998/rendition/1080p/file.mp4%20%281080p%29.mp4
+
+Marshmallow Laser Feast. (s. f.). We live in an ocean of air [Imagen]. https://marshmallowlaserfeast.com/app/uploads/2025/04/0279_An_Ode_to_an_Oak_comp_merged_v013.011411-768x1024.jpg
