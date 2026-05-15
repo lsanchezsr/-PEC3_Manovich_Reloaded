@@ -54,7 +54,7 @@ Detroit no solo nos plantea una historia interactiva, sino un entorno simulado d
 
 # Caso 2: *We Live in an Ocean of Air*
 
-## Descripción del caso
+## Presentación del caso
 We Live in an Ocean of Air es una instalación inmersiva creada por el colectivo artístico Marshmallow Laser Feast. Es una experiencia de realidad virtual y multisensorial que tiene como objetivo mostrar la conexión entre los seres humanos y la naturaleza, mediante la respiración y la relación con los árboles. La obra sitúa al usuario en un entorno inspirado en el Parque Nacional de las Secuoyas, donde este podrá experimentar visualmente lo que normalmente no se percibe, como el aire, el pulso, la respiración y los flujos vitales que unen a los organismos vivos (PHI, 2021).
 
 ## Hibridación mediática desde Manovich
