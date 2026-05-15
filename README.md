@@ -105,14 +105,14 @@ En ambos casos, la hibridación va más allá de la simple multimedia, ya que no
 En esta PEC se ha hecho uso puntual de la inteligencia artificial concretamente ChatGPT como herramienta de apoyo técnico para la maquetación en Markdown, la presentación en GitHub y la revisión de aspectos formales del texto. La selección de los casos, el análisis, la argumentación y las conclusiones son de elaboración propia.
 
 
-## Referencias
+## Referencias bibliográficas
 - Manovich, L. (2013). El software toma el mando. Editorial UOC.
 
 - PHI. (2021). We Live in an Ocean of Air. https://phi.ca/en/events/we-live-in-an-ocean-of-air/
 
 - Adell, F. (2014, 16 de abril). Remediació, multimèdia i hibridació dels mitjans. Universitat Oberta de Catalunya. https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-## Fuentes visuales
+## Referencias visuales
 
 - Quantic Dream. (s. f.). Detroit: Become Human [Imagen promocional]. Steam Store. https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg
 
